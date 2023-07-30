@@ -28,10 +28,10 @@
 
 <tr>
 <td>
-
+<div align="center" >
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-
+ 
 <!--  skill badge 技能徽章 -->
  正在学习
 
