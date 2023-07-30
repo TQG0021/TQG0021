@@ -16,11 +16,11 @@
 <!-- About me 关于我 -->
 ### About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是TGQ0021。</p>
 <p>&emsp;&emsp;热爱编程、读书、电影、音乐。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，正在努力学习并励志成为一名优秀的独立开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
@@ -33,7 +33,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
 
 <!--  skill badge 技能徽章 -->
-💪 正在学习
+ 正在学习
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
@@ -43,7 +43,7 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
   
-🧠 计划学习
+ 计划学习
 
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
@@ -59,7 +59,7 @@
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 
-🧰 常用的工具
+ 常用的工具
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
