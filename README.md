@@ -14,7 +14,7 @@
 <tr><td>
 
 <!-- About me 关于我 -->
-### 🤺 About Me
+### About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
@@ -29,8 +29,8 @@
 <tr>
 <td>
 
-
-
+<!-- Quotes 名人名言 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -99,15 +99,7 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-
 <div align="center" >
-
-
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
- 
-
-
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
