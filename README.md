@@ -16,7 +16,7 @@
 <!-- About me 关于我 -->
 ### About Me
 
-<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/GitHub-Logo.png" />
+<img align="right" width="196" high="146" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/GitHub-Logo.png" />
 
 <p>&emsp;&emsp;大家好，我是TQG0021。</p>
 <p>&emsp;&emsp;热爱编程、读书、电影、音乐。</p>
