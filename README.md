@@ -19,7 +19,7 @@
 <img align="right" width="210"  src="https://cdn.jsdelivr.net/gh/TQG0021/TQG0021/assets/images/GitHub-Logo.png" />
 
 <p>&emsp;&emsp;大家好，我是TQG0021。</p>
-<p>&emsp;&emsp;热爱编程、读书、电影、音乐。</p>
+<p>&emsp;&emsp;热爱编程、电影、音乐、游戏。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，正在努力学习并励志成为一名优秀的独立开发者。</p>
 <p>&emsp;&emsp;我们在让世界变得更美好。通过构造优雅的层次结构来实现最大的代码重用和可扩展性。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
